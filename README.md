@@ -1,4 +1,4 @@
 # Weather-Display
 Uses a Raspberry Pi and an LED matrix to display the current weather conditions.
 
-more info pending
+A docx was already created for the project, so use it as the readme.
